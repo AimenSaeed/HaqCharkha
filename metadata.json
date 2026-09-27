@@ -1,0 +1,6 @@
+{
+  "name": "Haq Charkha - Fair Wage Wheel for Artisans",
+  "description": "Interactive tactile fair pricing wheel, voice companion, and collective bargaining poster generator for low-literacy home-based embroidery artisans in Swat and rural Pakistan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
